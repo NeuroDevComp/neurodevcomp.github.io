@@ -34,8 +34,6 @@ website:
   twitter-card: true
   site-url: https://example.com
   open-graph: true
-  cookie-consent: true
-  back-to-top-navigation: true
   page-footer: 
     left: "![](static/img/erc.png){height='80px'}"
     center: "![](static/img/irsjd.png){height='80px'} ![](static/img/hsjd.png){height='80px'}"

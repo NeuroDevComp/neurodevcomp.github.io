@@ -12,6 +12,23 @@ body {
     -o-background-size: cover;
 }
 
+.navbar,
+.dropdown-item,
+.navbar-title,
+.menu-text,
+.bi-twitter,
+.bi-github,
+.aa-SubmitIcon {
+    background-color: rgb(70, 70, 70);
+    color: white;
+}
+
+.fa-solid,
+.fa-brands {
+    color: rgb(70, 70, 70);
+}
+
+
 .img-profile {
     width: 100%;
     padding: 1.5em;
@@ -37,13 +54,13 @@ body {
 }
 
 .contactbox {
-    background-color: #f1f1f1;
+    background-color: rgb(255, 255, 255, 0.25);
     padding: 2em;
     margin: 1em;
 }
 
 #quarto-announcement {
-    background-color: black;
+    background-color: rgba(70, 70, 70, 0.685);
     color: white;
 }
 
@@ -60,5 +77,5 @@ body {
 }
 
 .nav-footer {
-    background-color: rgb(255, 255, 255, 0.25);
+    background-color: rgba(255, 255, 255, 0.368);
 }
