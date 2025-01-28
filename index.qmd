@@ -1,0 +1,28 @@
+---
+title: "Neurodevelopment and Comparative Cognition research group"
+subtitle: "Institut de Recerca Sant Joan de Déu"
+listing:
+    type: grid
+    contents:
+        - people.qmd
+        - contact.qmd
+        - babies.qmd
+    sort: false 
+
+---
+
+The Neurodevelopment and Comparative Cognition (NeuroDevComp) research group at the Institut de Recerca Sant Joan de Déu (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neurodevelopmental processes across species. By combining comparative and developmental approaches, the group investigates how early-life experiences shape brain development and cognitive functions. Their interdisciplinary work bridges psychology, neuroscience, and biology to uncover insights into typical development, aiming to inform language acquisition and language evolution.
+
+<br>
+<br>
+<div class="grid center">
+<div class="g-col-6" style="vertical-align: middle">
+![](static/img/irsjd.png){width="200px"}
+</div>
+<div class="g-col-6">
+![](static/img/hsjd.png){width="300px"}
+</div>
+</div>
+<br>
+<hr>
+<br>

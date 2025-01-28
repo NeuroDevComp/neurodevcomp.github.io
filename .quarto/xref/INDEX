@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "be5c3e12"
+  },
+  "index.qmd": {
+    "index.html": "afb38053"
+  },
+  "people.qmd": {
+    "people.html": "00474eed"
+  },
+  "studies.qmd": {
+    "studies.html": "f5520ce7"
+  },
+  "contact.qmd": {
+    "contact.html": "30bc2ca1"
+  },
+  "research.qmd": {
+    "research.html": "6d29bce4"
+  },
+  "animals.qmd": {
+    "animals.html": "49ee732a"
+  },
+  "babies.qmd": {
+    "babies.html": "3c8b9413"
+  }
+}

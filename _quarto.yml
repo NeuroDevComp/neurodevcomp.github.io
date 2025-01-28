@@ -1,0 +1,54 @@
+project:
+  type: website
+
+website:
+  title: "neurodevcomp.github.io"
+  favicon: static/img/favicon.ico
+  navbar:
+    title: ""
+    logo: static/img/ndc-logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - text: Research
+        menu:
+          - text: Studies with babies
+            href: babies.qmd
+          - text: Animal research
+            href: animals.qmd
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/NeuroDevComp
+        aria-label: GitHub
+      - icon: twitter
+        href: https://github.com/NeuroDevComp
+        aria-label: Twitter
+    search: true
+  announcement: 
+    content: "**New** studies ongoing!" 
+    position: below-navbar 
+  twitter-card: true
+  site-url: https://example.com
+  open-graph: true
+  cookie-consent: true
+  back-to-top-navigation: true
+  page-footer: 
+    left: "![](static/img/erc.png){height='80px'} ![](static/img/irsjd.png){height='80px'}"
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+        
+    background: "#f1f1f1"
+  
+
+format:
+  html:
+    theme: cosmo
+    css: static/styles/styles.css
+    toc: true

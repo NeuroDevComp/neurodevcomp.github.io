@@ -1,0 +1,15 @@
+---
+title: "Studies with babies"
+image: static/img/science.jpg
+---
+
+## Newborns
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis semper tellus. In hac habitasse platea dictumst. Fusce at nisi nec erat pellentesque mattis sit amet id felis. In sed fringilla odio. Nam aliquet lacus ut turpis dapibus vestibulum. Donec malesuada metus et cursus hendrerit. Aliquam sit amet enim orci. Mauris scelerisque nisl sed neque vestibulum cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam vel tincidunt odio. Suspendisse velit nunc, accumsan non euismod et, accumsan vitae metus. Sed vestibulum augue vitae sem blandit finibus.
+
+## Infants
+
+Integer sit amet aliquam leo. Donec at sagittis lacus, in tempor ligula. Phasellus elit libero, gravida ac leo nec, volutpat porta nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nisi auctor, mollis velit et, ultricies libero. Praesent ultrices leo mollis quam mollis, quis scelerisque ex volutpat. Pellentesque rutrum volutpat ex, sed volutpat ante viverra at. Quisque sed lectus ullamcorper nunc tempor blandit. Sed accumsan suscipit nibh et tempus. Ut pellentesque magna at ligula fringilla, id sollicitudin velit mollis. Duis dictum pulvinar quam a facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis cursus lectus. Mauris pellentesque, tellus sit amet rhoncus tempor, tellus tellus suscipit arcu, sit amet pretium est arcu et risus. Quisque at placerat lorem. 
+
+
+
