@@ -5,7 +5,7 @@ website:
   title: "neurodevcomp.github.io"
   favicon: static/img/favicon.ico
   navbar:
-    title: ""
+    title: "NeuroDevComp"
     logo: static/img/ndc-logo.png
     left:
       - href: index.qmd
@@ -37,13 +37,13 @@ website:
   cookie-consent: true
   back-to-top-navigation: true
   page-footer: 
-    left: "![](static/img/erc.png){height='80px'} ![](static/img/irsjd.png){height='80px'}"
+    left: "![](static/img/erc.png){height='80px'}"
+    center: "![](static/img/irsjd.png){height='80px'} ![](static/img/hsjd.png){height='80px'}"
     right: 
       - icon: github
         href: https://github.com/
       - icon: twitter 
         href: https://twitter.com/ 
-        
     background: "#f1f1f1"
   
 
