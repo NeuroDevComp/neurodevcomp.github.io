@@ -5,7 +5,7 @@ website:
   title: "neurodevcomp.github.io"
   favicon: static/img/favicon.ico
   navbar:
-    title: ""
+    title: "NeuroDevComp"
     logo: static/img/ndc-logo.png
     left:
       - href: index.qmd
@@ -32,12 +32,10 @@ website:
     content: "**New** studies ongoing!" 
     position: below-navbar 
   twitter-card: true
-  site-url: https://example.com
+  site-url: https://neurodevcomp.github.io
   open-graph: true
-  cookie-consent: true
-  back-to-top-navigation: true
   page-footer: 
-    left: "![](static/img/erc.png){height='80px'} ![](static/img/irsjd.png){height='80px'}"
+    left: "![](static/img/erc.png){height='80px'}"
     right: 
       - icon: github
         href: https://github.com/

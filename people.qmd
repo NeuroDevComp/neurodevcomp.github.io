@@ -31,25 +31,18 @@ I'm a researcher working on language acquisition and early language processing, 
 <img src="static/img/gonzalo.jpg" class="img-profile">
 </div>
 </div>
-<br>
-<div class="icons-bar">
 <div class="grid center">
 <div class="g-col-2">
-{{< fa house size=2x >}}
-Website
+<a href="https://gongcastro.github.io" target="_blank" style="text-align: center;">{{< fa house size=2x >}}</a>
 </div>
 <div class="g-col-2">
-{{< fa brands github size=2x >}}
-GitHub
+<a href="https://github.com/gongcastro" target="_blank">{{< fa brands github size=2x >}}</a>
 </div>
 <div class="g-col-2">
-{{< fa brands bluesky size=2x >}}
-Bluesky
+<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank">{{< fa brands bluesky size=2x >}}</a>
 </div>
 <div class="g-col-2">
-{{< fa envelope size=2x >}}
-E-mail
-</div>
+<a href="mailto:gonzalo.garcia@sjd.es" target="_blank">{{< fa envelope size=2x >}}</a>
 </div>
 </div>
 </div>
@@ -62,7 +55,7 @@ E-mail
 <div class="textbox">
 <div class="grid">
 <div class="g-col-7">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales turpis id malesuada. Pellentesque ultrices lacus risus, nec tempus diam scelerisque vitae. Nam non semper tortor, a consequat tellus. Vestibulum consectetur a nulla sed scelerisque. Cras sed pretium orci, nec rhoncus est. Nulla facilisi. Integer luctus, nisl a fermentum elementum, magna diam congue nisi, id mollis lorem metus eu augue. Morbi bibendum accumsan iaculis. Pellentesque pellentesque, dui eu ultricies tincidunt, purus lacus semper ligula, quis vulputate ante quam eget eros.
+I am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition & processing of language by infants, using different techniques such as behavioral ones, eye tracker and later, imaging. Before that, I obtained my master’s degree in Integrative Biology and Physiology – specialized in Behavioral Neurosciences in La Sorbonne Université and spent a year working as a research engineer on the early acquisition of language in the INCC – Language & Cognition team in Paris. I am currently involved in the Gates to Language Acquisition (GALA) project investigating how babies, at only a few months old, perceive syllables. 
 </div>
 <div class="g-col-5">
 <img src="static/img/flora.jpg" class="img-profile">
@@ -77,8 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales
 <div class="textbox">
 <div class="grid">
 <div class="g-col-7">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales turpis id malesuada. Pellentesque ultrices lacus risus, nec tempus diam scelerisque vitae. Nam non semper tortor, a consequat tellus. Vestibulum consectetur a nulla sed scelerisque. Cras sed pretium orci, nec rhoncus est. Nulla facilisi. Integer luctus, nisl a fermentum elementum, magna diam congue nisi, id mollis lorem metus eu augue. Morbi bibendum accumsan iaculis. Pellentesque pellentesque, dui eu ultricies tincidunt, purus lacus semper ligula, quis vulputate ante quam eget eros.
-</div>
+I am currently working as a research assistant for the Gates to Language Acquisition (GALA) Project, where I invite families to participate in our studies, and I assist in data collection for our studies. I have obtained my master’s degree in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my bachelor’s degree in psychology at Bethany College (Kansas, USA). I find myself very interested in the research aiming to understand language acquisition mechanisms and strategies, mainly focused on understudied populations, languages, and dialects.</div>
 <div class="g-col-5">
 <img src="static/img/laura.jpg" class="img-profile">
 </div>

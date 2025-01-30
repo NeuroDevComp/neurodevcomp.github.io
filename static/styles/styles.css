@@ -1,17 +1,137 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@font-face {
+    font-family: 'Ciutadella Italic';
+    font-style: italic;
+    font-weight: normal;
+    src: url('/static/fonts/Ciutadella/Ciutadella-RegularItalic.eot');
+    src: local('Ciutadella Italic'), local('Ciutadella-RegularItalic'),
+        url('/static/fonts/Ciutadella/Ciutadella-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/Ciutadella/Ciutadella-RegularItalic.woff2') format('woff2'),
+        url('/static/fonts/Ciutadella/Ciutadella-RegularItalic.woff') format('woff'),
+        url('/static/fonts/Ciutadella/Ciutadella-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ciutadella Bold';
+    font-style: normal;
+    font-weight: bold;
+    src: url('/static/fonts/Ciutadella/Ciutadella-Bold.eot');
+    src: local('Ciutadella Bold'), local('Ciutadella-Bold'),
+        url('/static/fonts/Ciutadella/Ciutadella-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/Ciutadella/Ciutadella-Bold.woff2') format('woff2'),
+        url('/static/fonts/Ciutadella/Ciutadella-Bold.woff') format('woff'),
+        url('/static/fonts/Ciutadella/Ciutadella-Bold.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: 'Ciutadella Bold Italic';
+    font-style: italic;
+    font-weight: bold;
+    src: url('/static/fonts/Ciutadella/Ciutadella-BoldItalic.eot');
+    src: local('Ciutadella Bold Italic'), local('Ciutadella-BoldItalic'),
+        url('/static/fonts/Ciutadella/Ciutadella-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/Ciutadella/Ciutadella-BoldItalic.woff2') format('woff2'),
+        url('/static/fonts/Ciutadella/Ciutadella-BoldItalic.woff') format('woff'),
+        url('/static/fonts/Ciutadella/Ciutadella-BoldItalic.ttf') format('truetype');
+
+}
+
+
+
+@font-face {
+    font-family: 'Ciutadella Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/static/fonts/Ciutadella/Ciutadella-Regular.eot');
+    src: local('Ciutadella'), local('Ciutadella-Regular'),
+        url('/static/fonts/Ciutadella/Ciutadella-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/Ciutadella/Ciutadella-Regular.woff2') format('woff2'),
+        url('/static/fonts/Ciutadella/Ciutadella-Regular.woff') format('woff'),
+        url('/static/fonts/Ciutadella/Ciutadella-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: 'Ciutadella Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/static/fonts/Ciutadella/Ciutadella-Medium.eot');
+    src: local('Ciutadella Medium'), local('Ciutadella-Medium'),
+        url('/static/fonts/Ciutadella/Ciutadella-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/Ciutadella/Ciutadella-Medium.woff2') format('woff2'),
+        url('/static/fonts/Ciutadella/Ciutadella-Medium.woff') format('woff'),
+        url('/static/fonts/Ciutadella/Ciutadella-Medium.ttf') format('truetype');
+
+}
+
+
+@font-face {
+    font-family: 'Ciutadella SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    src: url('/static/fonts/Ciutadella/Ciutadella-SemiBold.eot');
+    src: local('Ciutadella SemiBold'), local('Ciutadella-SemiBold'),
+        url('/static/fonts/Ciutadella/Ciutadella-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('/static/fonts/Ciutadella/Ciutadella-SemiBold.woff2') format('woff2'),
+        url('/static/fonts/Ciutadella/Ciutadella-SemiBold.woff') format('woff'),
+        url('/static/fonts/Ciutadella/Ciutadella-SemiBold.ttf') format('truetype');
+
+}
+
 
 body {
-    color: black;
-    background-color: rgb(255, 219, 194);
-    /*background-image: url(../img/background.png);*/
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
+    background: rgb(234,98,18);
+    background: linear-gradient(35deg, rgba(234,98,18,0.4413486315700541) 13%, rgba(255,0,30,0.515139980170563) 57%, rgba(120,20,120,0.6245547384402831) 100%) no-repeat center center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    font-family: 'Inter';
+    font-size: 15px;
+    width: 100%;
+    word-break: break-word;
 }
+
+a {
+    color: black;
+}
+
+span.menu-text, 
+span.navbar-title,
+.bi {
+    color: white;
+    font-family: 'Ciutadella Medium';
+}
+
+
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Ciutadella Bold';
+    color: black;
+}
+
+a.nav-link,
+.nav-link.active,
+#toc-title,
+.subtitle {
+    font-family: 'Ciutadella SemiBold';
+    color: black;
+    font-size: 18px;
+}
+
+.navbar,
+.nav-link.dropdown-toggle {
+    background-color: #212529;
+    color: white;
+}
+
+
 
 .img-profile {
     width: 100%;
@@ -30,6 +150,7 @@ body {
 .textbox {
     background-color: rgb(255, 255, 255, 0.25);
     padding: 2em;
+    /* text-align: justify; */
 }
 
 .contactbox {
@@ -38,10 +159,6 @@ body {
     margin: 1em;
 }
 
-#quarto-announcement {
-    background-color: black;
-    color: white;
-}
 
 
 .with-background {
@@ -57,4 +174,10 @@ body {
 
 .nav-footer {
     background-color: rgb(255, 255, 255, 0.25);
+}
+
+
+#quarto-announcement {
+    background-color: #2125297a;
+    color: white;
 }
