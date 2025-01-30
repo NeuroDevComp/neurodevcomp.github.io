@@ -7,25 +7,32 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales turpis id malesuada. Pellentesque ultrices lacus risus, nec tempus diam scelerisque vitae. Nam non semper tortor, a consequat tellus. Vestibulum consectetur a nulla sed scelerisque. Cras sed pretium orci, nec rhoncus est. Nulla facilisi. Integer luctus, nisl a fermentum elementum, magna diam congue nisi, id mollis lorem metus eu augue. Morbi bibendum accumsan iaculis. Pellentesque pellentesque, dui eu ultricies tincidunt, purus lacus semper ligula, quis vulputate ante quam eget eros."
   },
   {
-    "objectID": "people.html#gonzalo-garcía-castro",
-    "href": "people.html#gonzalo-garcía-castro",
+    "objectID": "people.html#chiara-santolin-pi",
+    "href": "people.html#chiara-santolin-pi",
     "title": "People",
-    "section": "Gonzalo García-Castro",
-    "text": "Gonzalo García-Castro\n\n\n\nI’m a researcher working on language acquisition and early language processing, using a combination of eye-tracking, functional near-infrared spectroscopy (fNIRS), and computational modelling. Bayesian statistics are a big part of how I try to make sense of data, with a special focus on making my work computationally reproducible. I am currently involved in the Gates to Language Acquisition (GALA) investigating neonates’ and Long-Evans rats’ perception of syllables."
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales turpis id malesuada. Pellentesque ultrices lacus risus, nec tempus diam scelerisque vitae. Nam non semper tortor, a consequat tellus. Vestibulum consectetur a nulla sed scelerisque. Cras sed pretium orci, nec rhoncus est. Nulla facilisi. Integer luctus, nisl a fermentum elementum, magna diam congue nisi, id mollis lorem metus eu augue. Morbi bibendum accumsan iaculis. Pellentesque pellentesque, dui eu ultricies tincidunt, purus lacus semper ligula, quis vulputate ante quam eget eros."
   },
   {
-    "objectID": "people.html#flora-chartier",
-    "href": "people.html#flora-chartier",
+    "objectID": "people.html#post-doctoral-researchers",
+    "href": "people.html#post-doctoral-researchers",
     "title": "People",
-    "section": "Flora Chartier",
-    "text": "Flora Chartier\n\n\n\nI am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition & processing of language by infants, using different techniques such as behavioral ones, eye tracker and later, imaging. Before that, I obtained my master’s degree in Integrative Biology and Physiology – specialized in Behavioral Neurosciences in La Sorbonne Université and spent a year working as a research engineer on the early acquisition of language in the INCC – Language & Cognition team in Paris. I am currently involved in the Gates to Language Acquisition (GALA) project investigating how babies, at only a few months old, perceive syllables."
+    "section": "Post-doctoral researchers",
+    "text": "Post-doctoral researchers\n\nGonzalo García-Castro\n\n\n\nI’m a researcher working on language acquisition and early language processing, using a combination of eye-tracking, functional near-infrared spectroscopy (fNIRS), and computational modelling. Bayesian statistics are a big part of how I try to make sense of data, with a special focus on making my work computationally reproducible. I am currently involved in the Gates to Language Acquisition (GALA) investigating neonates’ and Long-Evans rats’ perception of syllables."
   },
   {
-    "objectID": "people.html#laura-s.-piracún",
-    "href": "people.html#laura-s.-piracún",
+    "objectID": "people.html#phd-students",
+    "href": "people.html#phd-students",
     "title": "People",
-    "section": "Laura S. Piracún",
-    "text": "Laura S. Piracún\n\n\n\nI am currently working as a research assistant for the Gates to Language Acquisition (GALA) Project, where I invite families to participate in our studies, and I assist in data collection for our studies. I have obtained my master’s degree in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my bachelor’s degree in psychology at Bethany College (Kansas, USA). I find myself very interested in the research aiming to understand language acquisition mechanisms and strategies, mainly focused on understudied populations, languages, and dialects."
+    "section": "PhD students",
+    "text": "PhD students\n\nFlora Chartier\n\n\n\nI am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition & processing of language by infants, using different techniques such as behavioral ones, eye tracker and later, imaging. Before that, I obtained my master’s degree in Integrative Biology and Physiology – specialized in Behavioral Neurosciences in La Sorbonne Université and spent a year working as a research engineer on the early acquisition of language in the INCC – Language & Cognition team in Paris. I am currently involved in the Gates to Language Acquisition (GALA) project investigating how babies, at only a few months old, perceive syllables."
+  },
+  {
+    "objectID": "people.html#staff",
+    "href": "people.html#staff",
+    "title": "People",
+    "section": "Staff",
+    "text": "Staff\n\nLaura S. Piracún\n\n\n\nI am currently working as a research assistant for the Gates to Language Acquisition (GALA) Project, where I invite families to participate in our studies, and I assist in data collection for our studies. I have obtained my master’s degree in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my bachelor’s degree in psychology at Bethany College (Kansas, USA). I find myself very interested in the research aiming to understand language acquisition mechanisms and strategies, mainly focused on understudied populations, languages, and dialects."
   },
   {
     "objectID": "contact.html",
@@ -35,18 +42,11 @@
     "text": "Interested in participanting in our studies or want to know more about our research? Reach out!\n\n\n\n\n\nReach out!\n\n C. de Sta. Rosa, 39, 08950 Barcelona\n XXXX-XXXX-XXXX\n neurodevcomp@sjd.es"
   },
   {
-    "objectID": "contact.html#reach-out",
-    "href": "contact.html#reach-out",
-    "title": "Contact",
-    "section": "Reach out!",
-    "text": "Reach out!\n C. de Sta. Rosa, 39, 08950 Barcelona\n XXXX-XXXX-XXXX\n laura.piracun [at] sjd [dot] es"
-  },
-  {
     "objectID": "animals.html",
     "href": "animals.html",
     "title": "Animal research",
     "section": "",
-    "text": "Animal research\nInteger sit amet aliquam leo. Donec at sagittis lacus, in tempor ligula. Phasellus elit libero, gravida ac leo nec, volutpat porta nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nisi auctor, mollis velit et, ultricies libero. Praesent ultrices leo mollis quam mollis, quis scelerisque ex volutpat. Pellentesque rutrum volutpat ex, sed volutpat ante viverra at. Quisque sed lectus ullamcorper nunc tempor blandit. Sed accumsan suscipit nibh et tempus. Ut pellentesque magna at ligula fringilla, id sollicitudin velit mollis. Duis dictum pulvinar quam a facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis cursus lectus. Mauris pellentesque, tellus sit amet rhoncus tempor, tellus tellus suscipit arcu, sit amet pretium est arcu et risus. Quisque at placerat lorem.\n\n\n\n\n Back to top"
+    "text": "Animal research\nInteger sit amet aliquam leo. Donec at sagittis lacus, in tempor ligula. Phasellus elit libero, gravida ac leo nec, volutpat porta nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nisi auctor, mollis velit et, ultricies libero. Praesent ultrices leo mollis quam mollis, quis scelerisque ex volutpat. Pellentesque rutrum volutpat ex, sed volutpat ante viverra at. Quisque sed lectus ullamcorper nunc tempor blandit. Sed accumsan suscipit nibh et tempus. Ut pellentesque magna at ligula fringilla, id sollicitudin velit mollis. Duis dictum pulvinar quam a facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis cursus lectus. Mauris pellentesque, tellus sit amet rhoncus tempor, tellus tellus suscipit arcu, sit amet pretium est arcu et risus. Quisque at placerat lorem."
   },
   {
     "objectID": "babies.html",
@@ -74,38 +74,6 @@
     "href": "index.html",
     "title": "Neurodevelopment and Comparative Cognition",
     "section": "",
-<<<<<<< HEAD
     "text": "Neurodevelopment and Comparative Cognition\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Neurodevelopment and Comparative Cognition (NeuroDevComp) research group at the Institut de Recerca Sant Joan de Déu (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neurodevelopmental processes across species. By combining comparative and developmental approaches, the group investigates how early-life experiences shape brain development and cognitive functions. Their interdisciplinary work bridges psychology, neuroscience, and biology to uncover insights into typical development, aiming to inform language acquisition and language evolution.\n\n\n\n\n\n\n\n\n\n\nPeople\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudies with babies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-=======
-    "text": "The Neurodevelopment and Comparative Cognition (NeuroDevComp) research group at the Institut de Recerca Sant Joan de Déu (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neurodevelopmental processes across species. By combining comparative and developmental approaches, the group investigates how early-life experiences shape brain development and cognitive functions. Their interdisciplinary work bridges psychology, neuroscience, and biology to uncover insights into typical development, aiming to inform language acquisition and language evolution.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeople\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudies with babies\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#chiara-santolin-pi",
-    "href": "people.html#chiara-santolin-pi",
-    "title": "People",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales turpis id malesuada. Pellentesque ultrices lacus risus, nec tempus diam scelerisque vitae. Nam non semper tortor, a consequat tellus. Vestibulum consectetur a nulla sed scelerisque. Cras sed pretium orci, nec rhoncus est. Nulla facilisi. Integer luctus, nisl a fermentum elementum, magna diam congue nisi, id mollis lorem metus eu augue. Morbi bibendum accumsan iaculis. Pellentesque pellentesque, dui eu ultricies tincidunt, purus lacus semper ligula, quis vulputate ante quam eget eros."
-  },
-  {
-    "objectID": "people.html#post-doctoral-researchers",
-    "href": "people.html#post-doctoral-researchers",
-    "title": "People",
-    "section": "Post-doctoral researchers",
-    "text": "Post-doctoral researchers\n\nGonzalo García-Castro\n\n\n\nI’m a researcher working on language acquisition and early language processing, using a combination of eye-tracking, functional near-infrared spectroscopy (fNIRS), and computational modelling. Bayesian statistics are a big part of how I try to make sense of data, with a special focus on making my work computationally reproducible. I am currently involved in the Gates to Language Acquisition (GALA) investigating neonates’ and Long-Evans rats’ perception of syllables.\n\n\n\n\n\n\n\n\n\n\nWebsite\n\n\n\nGitHub\n\n\n\nBluesky\n\n\n\nE-mail"
-  },
-  {
-    "objectID": "people.html#phd-students",
-    "href": "people.html#phd-students",
-    "title": "People",
-    "section": "PhD students",
-    "text": "PhD students\n\nFlora Chartier\n\n\n\nI am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition & processing of language by infants, using different techniques such as behavioral ones, eye tracker and later, imaging. Before that, I obtained my master’s degree in Integrative Biology and Physiology – specialized in Behavioral Neurosciences in La Sorbonne Université and spent a year working as a research engineer on the early acquisition of language in the INCC – Language & Cognition team in Paris. I am currently involved in the Gates to Language Acquisition (GALA) project investigating how babies, at only a few months old, perceive syllables."
-  },
-  {
-    "objectID": "people.html#staff",
-    "href": "people.html#staff",
-    "title": "People",
-    "section": "Staff",
-    "text": "Staff\n\nLaura S. Piracún\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales turpis id malesuada. Pellentesque ultrices lacus risus, nec tempus diam scelerisque vitae. Nam non semper tortor, a consequat tellus. Vestibulum consectetur a nulla sed scelerisque. Cras sed pretium orci, nec rhoncus est. Nulla facilisi. Integer luctus, nisl a fermentum elementum, magna diam congue nisi, id mollis lorem metus eu augue. Morbi bibendum accumsan iaculis. Pellentesque pellentesque, dui eu ultricies tincidunt, purus lacus semper ligula, quis vulputate ante quam eget eros."
->>>>>>> 658e48d7c745b17a86cb009a1fac24f5d708be8a
   }
 ]
