@@ -4,7 +4,7 @@ image: static/img/people.png
 ---
 
 
-# Chiara Santolin, PI
+## Chiara Santolin, PI
 
 <div class="textbox">
 <div class="grid">
@@ -18,9 +18,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum sodales
 </div>
 
 
-# Post-doctoral researchers
+## Post-doctoral researchers
 
-## Gonzalo García-Castro
+### Gonzalo García-Castro
 
 <div class="textbox">
 <div class="grid">
@@ -48,9 +48,9 @@ I'm a researcher working on language acquisition and early language processing, 
 </div>
 
 
-# PhD students
+## PhD students
 
-## Flora Chartier
+### Flora Chartier
 
 <div class="textbox">
 <div class="grid">
@@ -63,9 +63,9 @@ I am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD
 </div>
 </div>
 
-# Staff
+## Staff
 
-## Laura S. Piracún
+### Laura S. Piracún
 
 <div class="textbox">
 <div class="grid">

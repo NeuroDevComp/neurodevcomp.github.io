@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/people.html</loc>
-    <lastmod>2025-01-30T14:55:40.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/contact.html</loc>
-    <lastmod>2025-01-21T15:28:31.635Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/animals.html</loc>
-    <lastmod>2025-01-21T15:18:04.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/babies.html</loc>
-    <lastmod>2025-01-21T15:18:12.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://example.com/index.html</loc>
-    <lastmod>2025-01-30T14:49:26.260Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neurodevcomp.github.io/people.html</loc>
-    <lastmod>2025-01-30T15:29:28.818Z</lastmod>
-  </url>
-  <url>
     <loc>https://neurodevcomp.github.io/index.html</loc>
-    <lastmod>2025-01-30T15:13:31.450Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neurodevcomp.github.io/babies.html</loc>
-    <lastmod>2025-01-21T15:18:12.446Z</lastmod>
+    <lastmod>2025-01-30T15:33:42.313Z</lastmod>
   </url>
 </urlset>

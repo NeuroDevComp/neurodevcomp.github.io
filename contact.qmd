@@ -9,13 +9,16 @@ Interested in participanting in our studies or want to know more about our resea
 :::: {.contactbox}
 :::: {.columns}
 ::: {.column width="40%"}
-## Reach out!
+
+### Reach out!
+
+<br>
 
 {{< fa location-dot >}}  C. de Sta. Rosa, 39, 08950 Barcelona
 
 {{< fa phone >}}  XXXX-XXXX-XXXX
 
-{{< fa envelope >}}  [laura.piracun [at] sjd [dot] es](mailto:laura.piracun@sjd.es)
+{{< fa envelope >}}  [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
 
 
 :::
