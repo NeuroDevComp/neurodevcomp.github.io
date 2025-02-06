@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "neurodevcomp.github.io"
+  title: "NeuroDevComp"
   favicon: static/img/favicon.ico
   navbar:
     title: "NeuroDevComp"
@@ -28,19 +28,25 @@ website:
         href: https://github.com/NeuroDevComp
         aria-label: Twitter
     search: true
-  announcement: 
-    content: "**New** studies ongoing!" 
-    position: below-navbar 
   twitter-card: true
   site-url: https://neurodevcomp.github.io
   open-graph: true
   page-footer: 
-    left: "![](static/img/erc.png){height='80px'}"
+    left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
     right: 
       - icon: github
         href: https://github.com/
       - icon: twitter 
         href: https://twitter.com/ 
+    center: |
+      {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
+
+      {{< fa phone >}} XXXX-XXXX-XXXX
+
+      {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+
+      <br>
+
     background: "#f1f1f1"
   
 
@@ -49,3 +55,10 @@ format:
     theme: cosmo
     css: static/styles/styles.css
     toc: true
+    smooth-scroll: true
+    body-width: 1000px
+    linkcolor: black
+    grid: 
+      body-width: 1000px
+      sidebar-width: 200px
+      margin-width: 200px

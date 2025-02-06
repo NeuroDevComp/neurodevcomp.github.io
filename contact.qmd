@@ -3,7 +3,7 @@ title: Contact
 image: static/img/email.jpg
 ---
 
-Interested in participanting in our studies or want to know more about our research? **Reach out!**
+Interested in participanting in our studies or want to know more about our research?
 
 :::::{.column-page}
 :::: {.contactbox}
@@ -14,7 +14,7 @@ Interested in participanting in our studies or want to know more about our resea
 
 <br>
 
-{{< fa location-dot >}}  C. de Sta. Rosa, 39, 08950 Barcelona
+{{< fa location-dot >}}  C. de Sta. Rosa, 39, 08950 Barcelona, Pediatric Cancer Center Barcelona (PCCB).
 
 {{< fa phone >}}  XXXX-XXXX-XXXX
 

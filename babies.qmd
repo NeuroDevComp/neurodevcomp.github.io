@@ -1,15 +1,20 @@
 ---
 title: "Studies with babies"
-image: static/img/science.jpg
+image: static/img/babies.jpg
 ---
 
 ## Newborns
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis semper tellus. In hac habitasse platea dictumst. Fusce at nisi nec erat pellentesque mattis sit amet id felis. In sed fringilla odio. Nam aliquet lacus ut turpis dapibus vestibulum. Donec malesuada metus et cursus hendrerit. Aliquam sit amet enim orci. Mauris scelerisque nisl sed neque vestibulum cursus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam vel tincidunt odio. Suspendisse velit nunc, accumsan non euismod et, accumsan vitae metus. Sed vestibulum augue vitae sem blandit finibus.
+::: textbox
+Language is the most complex communicative system known. Yet, most humans find it surprisingly easy to acquire language. What mechanisms support this readiness for language acquisition? This is one of the main research questions at the NeuroDevComp group, and neonates key to investigate it, since they still have not received extensive experience with language yet! To investigate this issue, we use a techique called fNIRS, in which we measure newborns' brain spontaneous activity in response to different parts types of speech. 
+:::
+
+![](static/img/neonate.jpg)
 
 ## Infants
 
-Integer sit amet aliquam leo. Donec at sagittis lacus, in tempor ligula. Phasellus elit libero, gravida ac leo nec, volutpat porta nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porttitor nisi auctor, mollis velit et, ultricies libero. Praesent ultrices leo mollis quam mollis, quis scelerisque ex volutpat. Pellentesque rutrum volutpat ex, sed volutpat ante viverra at. Quisque sed lectus ullamcorper nunc tempor blandit. Sed accumsan suscipit nibh et tempus. Ut pellentesque magna at ligula fringilla, id sollicitudin velit mollis. Duis dictum pulvinar quam a facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras quis cursus lectus. Mauris pellentesque, tellus sit amet rhoncus tempor, tellus tellus suscipit arcu, sit amet pretium est arcu et risus. Quisque at placerat lorem. 
+::: textbox
+Our group research focuses on the early acquisition of language. We are interested in how babies can detect & process different parts of speech. Indeed, the little ones are known to very quickly pick up rules and habits of their language’s environment.  We are mostly interested in the processing and segmentation of speech into small units like syllables. To study this, we use different techniques: behavioral ones, in which we take parameters such as the baby looking time and reaction to what they are listening to. We also use sophisticated techniques: eye-tracking (a technique used to track the infant’s gaze towards a target), or imaging techniques like the fNIRS (with a little cap on the baby’s head). In all experiments parents are at all times with their baby. This part of the project includes babies from 4 to 11 months old, and different linguistic environments are welcome!
+:::
 
-
-
+![](static/img/babies.jpg)

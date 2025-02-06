@@ -83,16 +83,20 @@
 
 
 body {
-    background: rgb(234,98,18);
-    background: linear-gradient(35deg, rgba(234,98,18,0.4413486315700541) 13%, rgba(255,0,30,0.515139980170563) 57%, rgba(120,20,120,0.6245547384402831) 100%) no-repeat center center fixed;
-    background-size: cover;
+    background: url('../img/background.svg') no-repeat center center fixed;
+    background-size: 100% auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     font-family: 'Inter';
-    font-size: 15px;
+    font-size: 18px;
     width: 100%;
     word-break: break-word;
+}
+
+.container {
+    max-width: 100%;
+    width: 100%;
 }
 
 a {
@@ -102,11 +106,13 @@ a {
 span.menu-text, 
 span.navbar-title,
 .bi {
-    color: white;
     font-family: 'Ciutadella Medium';
+    font-size: 25px;
 }
 
-
+toc-active {
+    background-color: rgb(255, 255, 255, 0.8);
+}
 
 h1,
 h2,
@@ -114,24 +120,26 @@ h3,
 h4 {
     font-family: 'Ciutadella Bold';
     color: black;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+h2#toc-title {
+    font-family: 'Ciutadella SemiBold';
 }
 
 a.nav-link,
 .nav-link.active,
 #toc-title,
 .subtitle {
-    font-family: 'Ciutadella SemiBold';
+    font-family: 'Ciutadella Regular';
     color: black;
     font-size: 18px;
 }
-
-.navbar,
-.nav-link.dropdown-toggle {
-    background-color: #212529;
-    color: white;
-}
-
-
 
 .img-profile {
     width: 100%;
@@ -142,6 +150,7 @@ a.nav-link,
     align-self: center;
     display: flex;
     justify-content: center;
+    word-break: break-all;
 }
 
 .icons-bar {
@@ -153,9 +162,12 @@ a.nav-link,
 }
 
 .textbox {
-    background-color: rgb(255, 255, 255, 0.25);
+    background-color: rgb(255, 255, 255);
     padding: 2em;
-    /* text-align: justify; */
+    text-align: justify;
+    word-wrap: break-word;
+    hyphens: auto;
+    box-shadow: inset 0px 0px 20px 20px white;
 }
 
 .contactbox {
@@ -164,7 +176,10 @@ a.nav-link,
     margin: 1em;
 }
 
-
+.nav-footer,
+a.nav-footer {
+    color: black;
+}
 
 .with-background {
     background-image: "static/img/sjd.png";
@@ -178,11 +193,25 @@ a.nav-link,
 }
 
 .nav-footer {
-    background-color: rgb(255, 255, 255, 0.25);
+    background-color: rgb(255, 255, 255, 0.8);
+    font-size: 25px;
+    font-family: 'Ciutadella Regular';
 }
 
+.logos-grid {
+    text-align: center;
+    vertical-align: middle;
+}
 
-#quarto-announcement {
-    background-color: #2125297a;
-    color: white;
+.social-list{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+}
+
+.social-list li{
+    padding: 10px;
+    color: black;
+    font-size: 19px;
 }

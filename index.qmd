@@ -9,31 +9,32 @@ listing:
 contents: false
 sidebar:
     style: "docked"
+toc: false
 ---
 
-
-
-<div class="textbox">
 # Neurodevelopment and Comparative Cognition
 
 <br>
-<div class="grid center">
-<div class="g-col-4" style="text-align: center; vertical-align: middle;">
+
+::: {.logos-grid}
+::: {.grid}
+::: {.g-col-4}
 ![](static/img/irsjd.png){width="100%"}
-</div>
-<div class="g-col-4"  style="text-align: center; vertical-align: middle;">
-![](static/img/ndc-logo.svg){width="60%"}
-</div>
-<div class="g-col-4"  style="text-align: center; vertical-align: middle;">
+:::
+::: {.g-col-4}
+![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+:::
+::: {.g-col-4}
 ![](static/img/hsjd.png){width="300px"}
-</div>
-</div>
-<hr>
-
-The Neurodevelopment and Comparative Cognition (NeuroDevComp) research group at the Institut de Recerca Sant Joan de Déu (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neurodevelopmental processes across species. By combining comparative and developmental approaches, the group investigates how early-life experiences shape brain development and cognitive functions. Their interdisciplinary work bridges psychology, neuroscience, and biology to uncover insights into typical development, aiming to inform language acquisition and language evolution.
-
-</div>
+:::
+:::
+:::
 
 <br>
+
+::: {.textbox}
+The Neurodevelopment and Comparative Cognition (**NeuroDevComp**) research group at the **Institut de Recerca Sant Joan de Déu** (Barcelona, Spain), led by **Dr. Chiara Santolin**, focuses on understanding the mechanisms underlying **cognitive and neurodevelopmental processes across species**. By combining **comparative and developmental approaches**, the group investigates how early-life experiences shape **brain development** and **cognitive functions**. Their interdisciplinary work bridges psychology, neuroscience, and biology to uncover insights into typical development, aiming to inform **language acquisition** and **language evolution**.
+:::
+
 <br>
 
