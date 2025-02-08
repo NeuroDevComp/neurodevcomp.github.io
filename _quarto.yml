@@ -1,9 +1,11 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "NeuroDevComp"
   favicon: static/img/favicon.ico
+  site-url: https://neurodevcomp.github.io
   navbar:
     title: "NeuroDevComp"
     logo: static/img/ndc-logo.png
@@ -29,7 +31,6 @@ website:
         aria-label: Twitter
     search: true
   twitter-card: true
-  site-url: https://neurodevcomp.github.io
   open-graph: true
   page-footer: 
     left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
@@ -62,3 +63,17 @@ format:
       body-width: 1000px
       sidebar-width: 200px
       margin-width: 200px
+
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: es
+    text: "Español"
+  - name: ca
+    text: "Català"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['es', 'ca']
+  icon: "bi bi-backpack"
+lang: en

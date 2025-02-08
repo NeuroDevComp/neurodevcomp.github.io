@@ -1,5 +1,15 @@
 {
   "listingMap": {
+    "index.ca.qmd": [
+      "people.qmd",
+      "contact.qmd",
+      "babies.qmd"
+    ],
+    "index.es.qmd": [
+      "people.qmd",
+      "contact.qmd",
+      "babies.qmd"
+    ],
     "index.qmd": [
       "people.qmd",
       "contact.qmd",
