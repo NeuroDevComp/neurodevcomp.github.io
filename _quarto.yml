@@ -75,5 +75,4 @@ babelquarto:
     text: "English"
   mainlanguage: 'en'
   languages: ['es', 'ca']
-  icon: "bi bi-backpack"
 lang: en

@@ -1,0 +1,11 @@
+---
+title: "Animal research"
+image: static/img/animals.jpg
+---
+
+::: textbox
+Sabies que *no sols els humans som capaços de comunicar-nos i processar el llenguatge*? En el nostre grup de recerca ens interessa utilitzar un *enfocament comparatiu* per a entendre la *adquisició i processament del llenguatge*, i més concretament, de les estructures sil·làbiques. Per a això, investiguem animals humans i no humans com *Rattus Norvegicus**, per a comprovar la seva percepció de les *síl·labes** a diferents nivells. Amb la nostra recerca, esperem entendre a un nivell més pròxim el processament d'una de les unitats més petites que componen el llenguatge.
+:::
+
+
+![](static/img/animals.jpg)

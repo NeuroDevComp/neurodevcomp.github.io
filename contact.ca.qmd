@@ -3,14 +3,14 @@ title: Contact
 image: static/img/pccb.jpg
 ---
 
-Interested in participanting in our studies or want to know more about our research?
+Interessat/da en participar en els nostres estudis o vols saber més sobre la nostra recerca?
 
 :::::{.column-page}
 :::: {.contactbox}
 :::: {.columns}
 ::: {.column width="40%"}
 
-### Reach out!
+### Contacta amb nosaltres!
 
 <br>
 

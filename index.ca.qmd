@@ -33,7 +33,7 @@ toc: false
 <br>
 
 ::: {.textbox}
-El grupo de investigación Neurodesarrollo y Cognición Comparada (**NeuroDevComp**) del **Institut de Recerca Sant Joan de Déu** (Barcelona, ​​España), dirigido por la **Dra. Chiara Santolin**, se centra en comprender los mecanismos que subyacen a los **procesos cognitivos y de desarrollo neurológico en las distintas especies**. Mediante la combinación de **enfoques comparativos y de desarrollo**, el grupo investiga cómo las experiencias de la primera infancia dan forma al **desarrollo cerebral** y a las **funciones cognitivas**. Su trabajo interdisciplinario une la psicología, la neurociencia y la biología para descubrir conocimientos sobre el desarrollo típico, con el objetivo de informar sobre la **adquisición del lenguaje** y la **evolución del lenguaje**.
+El grup de recerca Neurodesenvolupament i Cognició Comparada (**NeuroDevComp**) del **Institut de Recerca Sant Joan de Déu** (Barcelona, ​​Espanya), dirigit per la **Dra. Chiara Santolin**, se centra en comprendre els mecanismes que subjeuen als *processos cognitius i de desenvolupament neurològic en les diferents espècies*. Mitjançant la combinació de *enfocaments comparatius i de desenvolupament*, el grup investiga com les experiències de la primera infància donen forma al *desenvolupament cerebral* i a les *funcions cognitives*. El seu treball interdisciplinari uneix la psicologia, la neurociència i la biologia per a descobrir coneixements sobre el desenvolupament típic, amb l'objectiu d'informar sobre la *adquisició del llenguatge* i la *evolució del llenguatge*.
 :::
 
 <br>

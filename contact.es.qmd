@@ -3,14 +3,14 @@ title: Contact
 image: static/img/pccb.jpg
 ---
 
-Interested in participanting in our studies or want to know more about our research?
+¿Está interesado/a en participar en nuestros estudios o quiere saber más sobre nuestras investigaciones?
 
 :::::{.column-page}
 :::: {.contactbox}
 :::: {.columns}
 ::: {.column width="40%"}
 
-### Reach out!
+### ¡Contacta con nosotros!
 
 <br>
 

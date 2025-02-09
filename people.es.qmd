@@ -1,0 +1,54 @@
+---
+title: "People"
+image: static/img/ndc-logo.png
+---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+<br>
+
+<h2>Chiara Santolin, PI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
+</a>&nbsp;&nbsp;</h2>
+
+![](static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+Soy una científica cognitiva especializada en la adquisición del lenguaje y la cognición comparativa. Trabajo como **Investigadora Principal** en el **Institut de Recerca Sant Joan de Déu**. Mi investigación explora los mecanismos cognitivos detrás del aprendizaje del lenguaje, en particular cómo los bebés detectan y categorizan las estructuras lingüísticas desde una edad temprana. También me interesa la cognición comparativa, investigando si existen procesos de aprendizaje similares en especies no humanas. A través de mi trabajo, pretendo comprender las raíces evolutivas del lenguaje y los principios fundamentales que guían el aprendizaje en todas las especies.
+
+Obtuve mi doctorado en Psicología de la **Universidad de Padua** en 2016, después de una maestría en Psicología Experimental y Ciencias Cognitivas de la misma institución en 2013. Después de completar mi doctorado, realicé una investigación posdoctoral en el **Centro Waisman de la Universidad de Wisconsin-Madison**, centrándome en el aprendizaje del lenguaje infantil. En 2017, me uní al Grupo de Adquisición y Percepción del Habla de la **Universitat Pompeu Fabra** en Barcelona, ​​donde investigué la adquisición de estructuras sintácticas y silábicas, los procesos de categorización y las preferencias de habla de los bebés.
+
+En 2024, recibí una **ERC Starting Grant** para mi proyecto **Gates to Language** (GALA), que tiene como objetivo explorar los patrones evolutivos de los mecanismos involucrados en el aprendizaje del lenguaje en humanos y animales no humanos. Actualmente, continúo mi investigación sobre el aprendizaje estadístico, el desarrollo del lenguaje infantil y la cognición animal.
+
+## Post-doctoral researchers
+
+<br>
+
+<h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
+</a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+
+
+![](static/img/gonzalo.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+Soy investigadora postdoctoral y trabajo en la **adquisición del lenguaje** y en **cómo las mentes jóvenes le dan sentido al mundo**. Mi trabajo se centra en la psicología del desarrollo y la psicolingüística, estudiando cómo los humanos procesan el lenguaje en diferentes etapas del desarrollo: desde **recién nacidos** hasta **infantes**, **niños pequeños** y **adultos**. En el marco del proyecto GALA, investigo cómo los neonatos, los bebés y los animales no humanos procesan diferentes estructuras silábicas, buscando mecanismos comunes que respalden el procesamiento del lenguaje. Para ello, utilizo una combinación de **seguimiento ocular**, espectroscopia funcional de infrarrojo cercano (**fNIRS**) y **modelado computacional**. Las **estadísticas bayesianas** son una parte importante de cómo intento dar sentido a los datos, con un enfoque especial en la **reproducibilidad computacional**.
+
+Me licencié en Psicología en la **Universidad de Oviedo** en 2013 y me gradué en Neurociencias en la **Universitat de Barcelona** en 2018. En 2024 obtuve mi doctorado en el Centro de Cerebro y Cognición de la **Universitat Pompeu Fabra**, supervisado por la profesora Núria Sebastian-Galles.
+## PhD students
+
+<br>
+
+<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a></h3>
+
+![](static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+Soy **estudiante de doctorado** en la **Universitat Pompeu Fabra** de Barcelona, ​​matriculada en el Programa de Doctorado en Biomedicina. Estoy interesada en la **adquisición y procesamiento temprano del lenguaje** por parte de los bebés, utilizando diferentes técnicas como las **conductuales**, **eye-tracking** y **fNIRS**.
+
+Obtuve mi **MSc en Biología Integrativa y Fisiología**---especializada en Neurociencias del Comportamiento en **La Sorbonne Université** y pasé un año trabajando como ingeniera de investigación en la adquisición temprana del lenguaje en el **INCC**---equipo de Lenguaje y Cognición en París. Actualmente estoy involucrada en el proyecto GALA que investiga **cómo los bebés, con tan solo unos meses de edad, perciben las sílabas**.
+
+<br>
+
+## Staff
+
+<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></h3>
+
+![](static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+Actualmente trabajo como asistente de investigación para el proyecto GALA. Facilito la investigación ayudando en la **recolección de datos**, brindando **apoyo logístico y administrativo** y ocupándome del centro de llamadas para **invitar a las familias a participar** en nuestros estudios. Obtuve mi maestría en **Lingüística Clínica y Experimental Internacional** en la **Universidad de Potsdam** (Potsdam, Alemania), y mi **licenciatura en Psicología** en el **Bethany College** (Kansas, EE. UU.). Me interesa mucho la investigación que apunta a comprender los **mecanismos y estrategias de adquisición del lenguaje**, principalmente enfocada en **poblaciones, idiomas y dialectos poco estudiados**.
+
