@@ -1,6 +1,6 @@
 ---
 title: Contact
-image: static/img/pccb.jpg
+image: /static/img/pccb.jpg
 ---
 
 Interested in participanting in our studies or want to know more about our research?

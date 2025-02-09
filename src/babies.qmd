@@ -1,6 +1,6 @@
 ---
 title: "Studies with babies"
-image: ../static/img/babies.jpg
+image: /static/img/babies.jpg
 ---
 
 ## Newborns
