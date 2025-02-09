@@ -1,6 +1,6 @@
 ---
 title: "Animal research"
-image: static/img/animals.jpg
+image: ../static/img/animals.jpg
 ---
 
 ::: textbox
@@ -8,4 +8,4 @@ Sabies que *no sols els humans som capaços de comunicar-nos i processar el llen
 :::
 
 
-![](static/img/animals.jpg)
+![](../static/img/animals.jpg)
