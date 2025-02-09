@@ -1,6 +1,6 @@
 ---
 title: "Studies with babies"
-image: static/img/babies.jpg
+image: ../static/img/babies.jpg
 ---
 
 ## Newborns
@@ -9,7 +9,7 @@ image: static/img/babies.jpg
 **Language is the most complex communicative system known**. Yet, most humans find it surprisingly easy to acquire language. **What mechanisms support this readiness for language acquisition?** This is one of the main research questions at the NeuroDevComp group, and **neonates are key to investigate it**, since they still have not received extensive experience with language yet! To investigate this issue, we use a techique called **fNIRS**, in which we measure newborns' brain spontaneous activity in response to different parts types of speech. 
 :::
 
-![](static/img/neonate.jpg)
+![](/static/img/neonate.jpg)
 
 ## Infants
 
@@ -17,4 +17,4 @@ image: static/img/babies.jpg
 Our group research focuses on the **early acquisition of language**. We are interested in **how babies can detect and process different parts of speech**. Infants are known to pick up rules and habits of their language’s environment very quickly. We are interested in the **processing and segmentation of speech into small units like syllables**. To study this, we use different techniques: **behavioral** ones, in which we take parameters such as the baby looking time and reaction to what they are listening to. We also use other  techniques like **eye-tracking** (a technique used to track the infant’s gaze towards a target), or **fNIRS**. In all experiments parents are at all times with their baby. This part of the project includes babies from 4 to 11 months old, and different linguistic environments are welcome!
 :::
 
-![](static/img/babies.jpg)
+![](/static/img/babies.jpg)
