@@ -219,3 +219,8 @@ a.nav-footer {
     color: black;
     font-size: 19px;
 }
+
+#languages-button {
+    color: black;
+    background-color: white;
+}

@@ -12,15 +12,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: people.qmd
+      - href: src/people.qmd
         text: People
       - text: Research
         menu:
           - text: Studies with babies
-            href: babies.qmd
+            href: src/babies.qmd
           - text: Animal research
-            href: animals.qmd
-      - href: contact.qmd
+            href: src/animals.qmd
+      - href: src/contact.qmd
         text: Contact
     right:
       - icon: github
