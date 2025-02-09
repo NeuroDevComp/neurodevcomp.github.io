@@ -42,7 +42,7 @@ website:
     center: |
       {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
 
-      {{< fa phone >}} XXXX-XXXX-XXXX
+      {{< fa phone >}} +34 670 211 887
 
       {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
 
