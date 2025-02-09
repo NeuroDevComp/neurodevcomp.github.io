@@ -103,7 +103,7 @@ a {
     color: black;
 }
 
-span.menu-text, 
+span.menu-text,
 span.navbar-title,
 .bi {
     font-family: 'Ciutadella Medium';
@@ -207,14 +207,14 @@ a.nav-footer {
     vertical-align: middle;
 }
 
-.social-list{
-    display:flex;
-    list-style:none;
-    justify-content:center;
-    padding:0;
+.social-list {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding: 0;
 }
 
-.social-list li{
+.social-list li {
     padding: 10px;
     color: black;
     font-size: 19px;
