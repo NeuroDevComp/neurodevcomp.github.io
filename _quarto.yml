@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
   resources: 
-  - static/fonts/*
-  - static/img/background.svg
+    - static/fonts/
+    - static/img/background.svg
 
 website:
   title: "NeuroDevComp"
@@ -15,15 +15,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: src/people.qmd
+      - href: people.qmd
         text: People
       - text: Research
         menu:
           - text: Studies with babies
-            href: src/babies.qmd
+            href: babies.qmd
           - text: Animal research
-            href: src/animals.qmd
-      - href: src/contact.qmd
+            href: animals.qmd
+      - href: contact.qmd
         text: Contact
     right:
       - icon: github
@@ -57,7 +57,9 @@ website:
 format:
   html:
     theme: cosmo
-    css: static/styles/styles.css
+    css:
+      - static/styles/styles.css
+      - static/styles/styles.scss
     toc: true
     smooth-scroll: true
     body-width: 1000px
@@ -67,6 +69,7 @@ format:
       sidebar-width: 200px
       margin-width: 200px
     email-obfuscation: javascript
+    include-before-body: background.html
 
 babelquarto:
   languagelinks: navbar
