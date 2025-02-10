@@ -55,6 +55,8 @@ format:
   html:
     theme: cosmo
     css: static/styles/styles.css
+    resources:
+     - /static/
     toc: true
     smooth-scroll: true
     body-width: 1000px
@@ -63,6 +65,7 @@ format:
       body-width: 1000px
       sidebar-width: 200px
       margin-width: 200px
+    email-obfuscation: javascript
 
 babelquarto:
   languagelinks: navbar
