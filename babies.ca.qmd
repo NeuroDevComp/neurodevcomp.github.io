@@ -7,7 +7,7 @@ image: /static/img/babies.jpg
 
 ::: textbox
 
-*El llenguatge és el sistema comunicatiu més complex que es coneix*. No obstant això, a la majoria dels éssers humans els resulta sorprenentment fàcil adquirir el llenguatge. *Quins mecanismes sustenten aquesta preparació per a l'adquisició del llenguatge?* Aquesta és una de les principals preguntes de recerca del grup NeuroDevComp, i *els nounats són clau per a investigar-la*, ja que encara no han adquirit una experiència extensa amb el llenguatge. Per a investigar aquesta qüestió, utilitzem una tècnica anomenada **fNIRS**, en la qual mesurem l'activitat espontània del cervell dels nounats en resposta a diferents tipus de parts de la parla.
+**El llenguatge és el sistema comunicatiu més complex que es coneix**. No obstant això, a la majoria dels éssers humans els resulta sorprenentment fàcil adquirir el llenguatge. **Quins mecanismes sustenten aquesta preparació per a l'adquisició del llenguatge?** Aquesta és una de les principals preguntes de recerca del grup NeuroDevComp, i **els nounats són clau per a investigar-la**, ja que encara no han adquirit una experiència extensa amb el llenguatge. Per a investigar aquesta qüestió, utilitzem una tècnica anomenada **fNIRS**, en la qual mesurem l'activitat espontània del cervell dels nounats en resposta a diferents tipus de parts de la parla.
 :::
 
 ![](/static/img/neonate.jpg)
@@ -15,7 +15,7 @@ image: /static/img/babies.jpg
 ## Infants
 
 ::: textbox
-El nostre grup de recerca se centra en la *adquisició primerenca del llenguatge*. Ens interessa *com els bebès poden detectar i processar les diferents parts de la parla*. Se sap que els bebès capten les regles i els hàbits de l'entorn en el qual es desenvolupa el seu llenguatge molt ràpidament. Ens interessa el *processament i la segmentació de la parla en unitats petites com a síl·labes*. Per a estudiar això, utilitzem diferents tècniques: *conductuals**, en les quals prenem paràmetres com el temps de mirada del bebè i la reacció al que està escoltant. També utilitzem altres tècniques com el **eye-*tracking** (una tècnica utilitzada per a seguir la mirada del bebè cap a un objectiu), o **fNIRS**. En tots els experiments, els pares estan en tot moment amb el seu bebè. Aquesta part del projecte inclou bebès de 4 a 11 mesos d'edat, i són benvinguts diferents entorns lingüístics!
+El nostre grup de recerca se centra en la **adquisició primerenca del llenguatge**. Ens interessa **com els bebès poden detectar i processar les diferents parts de la parla**. Se sap que els bebès capten les regles i els hàbits de l'entorn en el qual es desenvolupa el seu llenguatge molt ràpidament. Ens interessa el **processament i la segmentació de la parla en unitats petites com a síl·labes**. Per a estudiar això, utilitzem diferents tècniques: **conductuals**, en les quals prenem paràmetres com el temps de mirada del bebè i la reacció al que està escoltant. També utilitzem altres tècniques com el **eye-*tracking** (una tècnica utilitzada per a seguir la mirada del bebè cap a un objectiu), o **fNIRS**. En tots els experiments, els pares estan en tot moment amb el seu bebè. Aquesta part del projecte inclou bebès de 4 a 11 mesos d'edat, i són benvinguts diferents entorns lingüístics!
 :::
 
 ![](/static/img/babies.jpg)

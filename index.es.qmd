@@ -12,20 +12,6 @@ sidebar:
 toc: false
 ---
 
-<style>
-body {
-    background: url('/static/img/background.svg') no-repeat center center fixed;
-    background-size: 100% auto;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    font-family: 'Roboto';
-    font-size: 18px;
-    width: 100%;
-    word-break: break-word;
-}
-</style>
-
 # Neurodevelopment and Comparative Cognition
 
 <br>

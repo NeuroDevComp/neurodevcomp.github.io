@@ -4,7 +4,7 @@ image: /static/img/animals.jpg
 ---
 
 ::: textbox
-Nuestro grupo de investigación se centra en la **adquisición temprana del lenguaje**. Nos interesa **como los bebés pueden detectar y procesar las diferentes partes del habla**. Se sabe que los bebés captan las reglas y los hábitos del entorno en el cual se desarrolla su lenguaje muy rápidamente. Nos interesa el procesamiento y la **segmentación del habla en unidades pequeñas como sílabas**. Para estudiar esto, utilizamos diferentes técnicas: **conductuales**, en las cuales tomamos parámetros como el tiempo de mirada del bebé y la reacción al que está escuchando. También utilizamos otras técnicas como el **eye-tracking** (una técnica utilizada para seguir la mirada del bebé hacia un objetivo), o **fNIRS**. En todos los experimentos, los padres están en todo momento con su bebé. Esta parte del proyecto incluye bebés de 4 a 11 meses de edad, y son bienvenidos diferentes entornos lingüísticos!
+¿Sabías que **no sólo los humanos somos capaces de comunicarnos y procesar el lenguaje**? En nuestro grupo de investigación nos interesa utilizar un **enfoque comparativo** para entender la **adquisición y procesamiento del lenguaje**. Para ello, no sólo estudiamos a los humanos sino también a animales *animales no humanos**, como el *Rattus Norvegicus*, para poner a prueba sus capacidades de procesamiento del habla, y en particular, de las **sílabas**. Con nuestra investigación, esperamos poder entender a un nivel más cercano el procesamiento de las unidades más pequeñas que componen el lenguaje.
 :::
 
 

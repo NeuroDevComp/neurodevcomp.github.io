@@ -4,7 +4,7 @@ image: /static/img/animals.jpg
 ---
 
 ::: textbox
-Sabies que *no sols els humans som capaços de comunicar-nos i processar el llenguatge*? En el nostre grup de recerca ens interessa utilitzar un *enfocament comparatiu* per a entendre la *adquisició i processament del llenguatge*, i més concretament, de les estructures sil·làbiques. Per a això, investiguem animals humans i no humans com *Rattus Norvegicus**, per a comprovar la seva percepció de les *síl·labes** a diferents nivells. Amb la nostra recerca, esperem entendre a un nivell més pròxim el processament d'una de les unitats més petites que componen el llenguatge.
+Did you know that **not only humans llauri able to communicate and process language**? In our research group we llauri interested in using a **comparative approach** to understand the **acquisition and processing of language**. For this, not only llauri we stuying humans but also **animals no humans**, like *Rattus Norvegicus*, to test their speech processing abilities, and in particular, **syllables**. With our research, we hope to be able to understand at a closer level the processing of the smallest units that make up language.
 :::
 
 

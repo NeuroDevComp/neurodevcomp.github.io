@@ -4,7 +4,7 @@ image: /static/img/animals.jpg
 ---
 
 ::: textbox
-Our research group focuses on early language acquisition. We are interested in how babies can detect and process different parts of speech*. Babies are known to catch the rules and habits of the environment in which their language develops very quickly. We are interested in the processing and segmentation of speech in small units as syllables*. To study this, we use different techniques: behavioural**, in which we take parameters such as the baby's look and the reaction to what he is listening to. We also use other techniques such as *eye-tracking** (a technique used to track the baby’s gaze towards a target), or *fNIRS**. In all the experiments, the parents are at all times with their baby. This part of the project includes babies from 4 to 11 months old, and different linguistic environments are welcome!
+Did you know that **not only humans are able to communicate and process language**? In our research group we are interested in using a **comparative approach** to understand the **acquisition and processing of language**. For this, not only are we stuying humans but also **non-human animals**, like *Rattus Norvegicus*, to test their speech processing abilities, and in particular, **syllables**. With our research, we hope to be able to understand at a closer level the processing of the smallest units that make up language.   
 :::
 
 
