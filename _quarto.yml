@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+  - static/fonts/*
+  - static/img/background.svg
 
 website:
   title: "NeuroDevComp"
@@ -55,8 +58,6 @@ format:
   html:
     theme: cosmo
     css: static/styles/styles.css
-    resources:
-     - /static/
     toc: true
     smooth-scroll: true
     body-width: 1000px
