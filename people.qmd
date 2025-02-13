@@ -39,7 +39,7 @@ In 2024 I obtained my PhD at the Center for Brain and Cognition, **Universitat P
 
 <br>
 
-<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a></h3>
+<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Floraachr" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
 ![](/static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
@@ -51,7 +51,7 @@ I obtained my **MSc in Integrative Biology and Physiology**, specialized in Beha
 
 ## Staff
 
-<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></h3>
+<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/laurapiracun" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
 ![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
