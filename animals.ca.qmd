@@ -1,6 +1,7 @@
 ---
 title: "Animal research"
 image: /static/img/animals.jpg
+description: "Els nostres estudis amb animals no humans"
 ---
 
 ::: textbox

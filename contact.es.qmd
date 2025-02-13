@@ -1,9 +1,9 @@
 ---
 title: Contact
 image: /static/img/pccb.jpg
+description: "¡Contacta con nosotros!"
 ---
 
-¿Está interesado/a en participar en nuestros estudios o quiere saber más sobre nuestras investigaciones?
 
 :::::{.column-page}
 :::: {.contactbox}

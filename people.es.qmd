@@ -1,10 +1,9 @@
 ---
-title: "People"
+title: "¿Quiénes somos?"
 image: /static/img/ndc-logo.png
+description: "¡Conoce al equipo!"
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
-
-<br>
 
 <h2>Chiara Santolin, PI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
 </a>&nbsp;&nbsp;</h2>
@@ -17,9 +16,9 @@ Obtuve mi doctorado en Psicología de la **Universidad de Padua** en 2016, despu
 
 En 2024, recibí una **ERC Starting Grant** para mi proyecto **Gates to Language** (GALA), que tiene como objetivo explorar los patrones evolutivos de los mecanismos involucrados en el aprendizaje del lenguaje en humanos y animales no humanos. Actualmente, continúo mi investigación sobre el aprendizaje estadístico, el desarrollo del lenguaje infantil y la cognición animal.
 
-## Post-doctoral researchers
-
 <br>
+
+## Post-doctoral researchers
 
 <h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
 </a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
@@ -31,9 +30,9 @@ Soy investigador postdoctoral y trabajo en la **adquisición del lenguaje** y en
 
 Me gradué en Psicología en la **Universidad de Oviedo** en 2013 y obtuve un máster en Neurociencias en la **Universitat de Barcelona** en 2018. En 2024 obtuve mi doctorado en el Centro de Cerebro y Cognición de la **Universitat Pompeu Fabra**, supervisado por la profesora Núria Sebastian-Galles.
 
-## PhD students
-
 <br>
+
+## PhD students
 
 <h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a></h3>
 

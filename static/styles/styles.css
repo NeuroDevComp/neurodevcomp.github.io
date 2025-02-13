@@ -138,6 +138,10 @@ a {
     text-decoration: none;
 }
 
+.description {
+    text-align: center;
+}
+
 .img-profile {
     width: 100%;
     padding: 1.5em;

@@ -1,6 +1,7 @@
 ---
 title: Contact
 image: /static/img/pccb.jpg
+description: "Reach out!"
 ---
 
 Interested in participanting in our studies or want to know more about our research?
@@ -8,7 +9,7 @@ Interested in participanting in our studies or want to know more about our resea
 :::::{.column-page}
 :::: {.contactbox}
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="30%"}
 
 ### Reach out!
 
@@ -22,7 +23,7 @@ Interested in participanting in our studies or want to know more about our resea
 
 
 :::
-::: {.column width="60%"}
+::: {.column width="70%"}
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.4983065244683!2d2.1003198764646505!3d41.38498349614366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a499a8bf8e3681%3A0xffe871f4bd14ec1d!2sInstituto%20de%20Investigaci%C3%B3n%20San%20Joan%20de%20D%C3%A9u%20(IRSJD)!5e0!3m2!1ses!2ses!4v1737468648346!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 :::
 ::::

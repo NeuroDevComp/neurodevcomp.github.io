@@ -1,6 +1,7 @@
 ---
 title: Contact
 image: /static/img/pccb.jpg
+description: "Contacta amb nosaltres!"
 ---
 
 Interessat/da en participar en els nostres estudis o vols saber més sobre la nostra recerca?
