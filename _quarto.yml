@@ -14,7 +14,6 @@ format:
     theme: cosmo
     css:
       - static/styles/styles.css
-      - static/styles/styles.scss
     toc: true
     smooth-scroll: true
     body-width: 1000px

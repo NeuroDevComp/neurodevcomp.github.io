@@ -8,7 +8,8 @@ image: /static/img/babies.jpg
 ::: textbox
 **El lenguaje es un sistema comunicativo muy complejo y estructurado**, pero a la mayoría de los seres humanos les resulta sorprendentemente **fácil adquirirlo**. ¿Qué mecanismos favorecen esta preparación para el aprendizaje del lenguaje en etapas tempranas de la vida? Esta es una de las principales preguntas de investigación del grupo NeuroDevComp, que abordamos **estudiando a recién nacidos unas horas después del nacimiento**.
 
-Utilizamos una técnica llamada **fNIRS (espectroscopia funcional de infrarrojo cercano)** que permite medir la actividad neuronal espontánea de los recién nacidos cuando escuchan estímulos auditivos (por ejemplo, habla continua, sílabas individuales y palabras). Actualmente estamos llevando a cabo estos estudios en el Hospital Infantil Sant Joan de Déu de Barcelona.:::
+Utilizamos una técnica llamada **fNIRS (espectroscopia funcional de infrarrojo cercano)** que permite medir la actividad neuronal espontánea de los recién nacidos cuando escuchan estímulos auditivos (por ejemplo, habla continua, sílabas individuales y palabras). Actualmente estamos llevando a cabo estos estudios en el Hospital Infantil Sant Joan de Déu de Barcelona.
+:::
 
 ![](/static/img/neonate.jpg)
 

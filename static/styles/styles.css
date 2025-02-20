@@ -76,7 +76,7 @@
 
 
 body {
-    background: url('/static/img/background.svg') no-repeat center center fixed;
+    background: url('../img/background.svg') no-repeat center center fixed;
     background-size: 100% auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;

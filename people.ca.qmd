@@ -7,7 +7,7 @@ description: "Coneix l'equip!"
 
 <br>
 
-<h2>Chiara Santolin, PI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
+<h2>Chiara Santolin (Investigadora Principal, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
 </a>&nbsp;&nbsp;</h2>
 
 ![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
