@@ -15,7 +15,30 @@ image: /static/img/babies.jpg
 ## Infants
 
 ::: textbox
-El nostre grup de recerca se centra en la **adquisició primerenca del llenguatge**. Ens interessa **com els bebès poden detectar i processar les diferents parts de la parla**. Se sap que els bebès capten les regles i els hàbits de l'entorn en el qual es desenvolupa el seu llenguatge molt ràpidament. Ens interessa el **processament i la segmentació de la parla en unitats petites com a síl·labes**. Per a estudiar això, utilitzem diferents tècniques: **conductuals**, en les quals prenem paràmetres com el temps de mirada del bebè i la reacció al que està escoltant. També utilitzem altres tècniques com el **eye-*tracking** (una tècnica utilitzada per a seguir la mirada del bebè cap a un objectiu), o **fNIRS**. En tots els experiments, els pares estan en tot moment amb el seu bebè. Aquesta part del projecte inclou bebès de 4 a 11 mesos d'edat, i són benvinguts diferents entorns lingüístics!
+
+## Newborns
+
+::: textbox
+**La llengua és un sistema comunicatiu molt complex i estructurat** però la majoria dels humans troben sorprenentment **fàcil adquirir el llenguatge**. Quins mecanismes donen suport a aquesta disposició per a l'aprenentatge de llengües en els primers anys de la vida? Aquesta és una de les principals preguntes de recerca del grup NeuroDevComp, a la qual ens dirigim *sentint nadons unes hores després del naixement*.
+
+Utilitzem una tècnica anomenada **fNIRS (funcional Near-Infrared Spectroscopy)** que permet mesurar l'activitat neuronal espontània dels nounats en escoltar les entrades auditives (per exemple, parla contínua, síl·labes individuals i paraules). Actualment estem realitzant aquests estudis a l'Hospital Sant Joan de Déu Barcelona.
+:::
+
+![](/static/img/neonate.jpg)
+
+## Infants
+
+::: textbox
+Ens interessa **com els nadons de 4 a 11 mesos detecten i processen diferents característiques de la parla**. Els infants joves són coneguts per recollir regles i estructures de la seva llengua materna (s) molt ràpidament i sense esforç.
+
+En concret, ens interessa **com els infants segmenten la parla en unitats petites com síl·labes**. Per abordar aquesta qüestió, utilitzem diferents tècniques:
+
+- **Comportament**: mesurem quant de temps els infants miren una pantalla d'ordinador mentre escolten diferents tipus de sons de parla.
+- **Eye-tracker**: seguim els moviments de la mirada dels infants a la pantalla amb alta precisió, i també mesurem la seva dilatació pupil·lar en escoltar sons de parla.
+- **fNIRS** (espectroscòpia funcional d'infraroig proper): estem interessats a veure l'activació de diferents àrees cerebrals quan els nadons estan escoltant sons de la parla.
+:::
+
+![](/static/img/babies.jpg)
 :::
 
 ![](/static/img/babies.jpg)

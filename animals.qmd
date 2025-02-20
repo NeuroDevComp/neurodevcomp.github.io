@@ -4,7 +4,10 @@ image: /static/img/animals.jpg
 ---
 
 ::: textbox
-Did you know that **not only humans are able to communicate and process language**? In our research group we are interested in using a **comparative approach** to understand the **acquisition and processing of language**. For this, not only are we stuying humans but also **non-human animals**, like *Rattus Norvegicus*, to test their speech processing abilities, and in particular, **syllables**. With our research, we hope to be able to understand at a closer level the processing of the smallest units that make up language.   
+Did you know that **other animals are able to process and learn some properties of the human language**? 
+In our research group we are interested in taking a **cross-species approach** to understand the **learning and processing of language**. We use animal models like rats (*Rattus Norvegicus*) to test their **ability to process syllables and words**, two fundamental units of speech implemented as with auditory and vibrotactile stimuli.
+
+Stay tuned!
 :::
 
 

@@ -6,7 +6,9 @@ image: /static/img/babies.jpg
 ## Newborns
 
 ::: textbox
-**Language is the most complex communicative system known**. Yet, most humans find it surprisingly easy to acquire language. **What mechanisms support this readiness for language acquisition?** This is one of the main research questions at the NeuroDevComp group, and **neonates are key to investigate it**, since they still have not received extensive experience with language yet! To investigate this issue, we use a techique called **fNIRS**, in which we measure newborns' brain spontaneous activity in response to different parts types of speech. 
+**Language is a very complex and structured communicative system** yet most humans find it surprisingly **easy to acquire language**. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevComp group, which we address by **studying newborns a few hours after birth**. 
+
+We use a technique called **fNIRS (functional Near-Infrared Spectroscopy)** that allows to measure newborns' spontaneous neural activity when listening to auditory inputs (e.g., continuous speech, individual syllables and words). We are currently conducting these studies at the Sant Joan de Deu Barcelona Children Hospital. 
 :::
 
 ![](/static/img/neonate.jpg)
@@ -14,7 +16,13 @@ image: /static/img/babies.jpg
 ## Infants
 
 ::: textbox
-Our group research focuses on the **early acquisition of language**. We are interested in **how babies can detect and process different parts of speech**. Infants are known to pick up rules and habits of their language’s environment very quickly. We are interested in the **processing and segmentation of speech into small units like syllables**. To study this, we use different techniques: **behavioral** ones, in which we take parameters such as the baby looking time and reaction to what they are listening to. We also use other  techniques like **eye-tracking** (a technique used to track the infant’s gaze towards a target), or **fNIRS**. In all experiments parents are at all times with their baby. This part of the project includes babies from 4 to 11 months old, and different linguistic environments are welcome!
+Nos interesa saber cómo los bebés de entre 4 y 11 meses detectan y procesan diferentes características del habla. Se sabe que los bebés pequeños aprenden las reglas y estructuras de su(s) lengua(s) materna(s) muy rápidamente y sin esfuerzo.
+
+En concreto, nos interesa saber cómo los bebés segmentan el habla en unidades pequeñas, como sílabas. Para abordar esta cuestión, utilizamos diferentes técnicas:
+
+- **Conductual**: medimos el tiempo que los bebés miran la pantalla de un ordenador mientras escuchan diferentes tipos de sonidos del habla.
+- **Eye-tracker**: rastreamos los movimientos de la mirada de los bebés en la pantalla con gran precisión y también medimos la dilatación de sus pupilas cuando escuchan sonidos del habla.
+- **fNIRS** (espectroscopia funcional de infrarrojo cercano): nos interesa observar la activación de diferentes áreas del cerebro cuando los bebés escuchan sonidos del habla.
 :::
 
 ![](/static/img/babies.jpg)

@@ -4,7 +4,7 @@ image: /static/img/animals.jpg
 ---
 
 ::: textbox
-Did you know that **not only humans llauri able to communicate and process language**? In our research group we llauri interested in using a **comparative approach** to understand the **acquisition and processing of language**. For this, not only llauri we stuying humans but also **animals no humans**, like *Rattus Norvegicus*, to test their speech processing abilities, and in particular, **syllables**. With our research, we hope to be able to understand at a closer level the processing of the smallest units that make up language.
+En el nostre grup de recerca estem interessats a fer un **enfocament multi-espècie** per entendre l'**aprenentatge i processament de la llengua**. Utilitzem models animals com les rates (*Rattus Norvegicus*) per provar la seva **capacitat de processar síl·labes i paraules**, dues unitats fonamentals de parla implementades com amb estímuls auditius i vibrotàtils.
 :::
 
 

@@ -4,7 +4,7 @@ image: /static/img/animals.jpg
 ---
 
 ::: textbox
-¿Sabías que **no sólo los humanos somos capaces de comunicarnos y procesar el lenguaje**? En nuestro grupo de investigación nos interesa utilizar un **enfoque comparativo** para entender la **adquisición y procesamiento del lenguaje**. Para ello, no sólo estudiamos a los humanos sino también a animales *animales no humanos**, como el *Rattus Norvegicus*, para poner a prueba sus capacidades de procesamiento del habla, y en particular, de las **sílabas**. Con nuestra investigación, esperamos poder entender a un nivel más cercano el procesamiento de las unidades más pequeñas que componen el lenguaje.
+¿Sabías que **otros animales son capaces de procesar y aprender algunas propiedades del lenguaje humano**? En nuestro grupo de investigación nos interesa adoptar un enfoque **multi-especie** para comprender el **aprendizaje y procesamiento del lenguaje**. Utilizamos modelos animales como las ratas *Rattus Norvegicus* para probar su **capacidad de procesar sílabas y palabras**, dos unidades fundamentales del habla que se implementan con estímulos auditivos y vibrotáctiles.
 :::
 
 
