@@ -1,0 +1,54 @@
+website:
+  title: "NeuroDevComp"
+  favicon: static/img/favicon.ico
+  site-url: https://neurodevcomp.github.io
+  repo-url: https://github.com/NeuroDevComp/neurodevcomp.github.io
+  repo-actions: [edit, issue]
+  navbar:
+    title: "NeuroDevComp"
+    logo: static/img/ndc-logo.png
+    right:
+      - icon: github
+        href: https://github.com/NeuroDevComp
+        aria-label: GitHub
+      - icon: twitter
+        href: https://github.com/NeuroDevComp
+        aria-label: Twitter
+    left:
+      - href: people.qmd
+        text: ¿Quiénes somos?
+      - text: Investigación
+        menu:
+          - text: Estudios con bebés
+            href: babies.qmd
+          - text: Estudios con animales
+            href: animals.qmd
+      - href: contact.qmd
+        text: Contacto
+    search: true
+  twitter-card: true
+  open-graph: true
+  page-footer: 
+    left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+    center: |
+      {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
+
+      {{< fa phone >}} +34 670 211 887
+
+      {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+
+      <br>
+
+    background: "#f1f1f1"
+
+babelquarto:
+  languagecodes:
+  - name: es
+    text: "Español"
+  mainlanguage: 'en'
+lang: en

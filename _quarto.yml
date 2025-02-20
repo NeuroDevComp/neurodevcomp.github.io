@@ -5,54 +5,9 @@ project:
     - static/fonts/
     - static/img/background.svg
 
+
 website:
-  title: "NeuroDevComp"
-  favicon: static/img/favicon.ico
-  site-url: https://neurodevcomp.github.io
-  navbar:
-    title: "NeuroDevComp"
-    logo: static/img/ndc-logo.png
-    left:
-      - href: index.qmd
-        text: Home
-      - href: people.qmd
-        text: People
-      - text: Research
-        menu:
-          - text: Studies with babies
-            href: babies.qmd
-          - text: Animal research
-            href: animals.qmd
-      - href: contact.qmd
-        text: Contact
-    right:
-      - icon: github
-        href: https://github.com/NeuroDevComp
-        aria-label: GitHub
-      - icon: twitter
-        href: https://github.com/NeuroDevComp
-        aria-label: Twitter
-    search: true
-  twitter-card: true
-  open-graph: true
-  page-footer: 
-    left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
-    right: 
-      - icon: github
-        href: https://github.com/
-      - icon: twitter 
-        href: https://twitter.com/ 
-    center: |
-      {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
-
-      {{< fa phone >}} +34 670 211 887
-
-      {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
-
-      <br>
-
-    background: "#f1f1f1"
-  
+  navbar: true
 
 format:
   html:
@@ -69,17 +24,8 @@ format:
       sidebar-width: 200px
       margin-width: 200px
     email-obfuscation: javascript
-    include-before-body: background.html
-
+    include-before-body: static/templates/background.html
+    
 babelquarto:
-  languagelinks: navbar
-  languagecodes:
-  - name: es
-    text: "Español"
-  - name: ca
-    text: "Català"
-  - name: en
-    text: "English"
   mainlanguage: 'en'
-  languages: ['es', 'ca']
-lang: en
+  languages: ['ca', 'es']

@@ -1,6 +1,7 @@
 ---
 title: "Animal research"
 image: /static/img/animals.jpg
+description: "Our research with non-human animals"
 ---
 
 ::: textbox
