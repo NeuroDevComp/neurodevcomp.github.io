@@ -1,5 +1,5 @@
 ---
-title: "Studies with babies"
+title: "Estudis amb nadós"
 image: /static/img/babies.jpg
 description: "Quin tipus d'estudis fem?"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Studies with babies"
-image: /static/img/babies.jpgv
+image: /static/img/babies.jpg
+description: "What kind of studies do we carry out?"
 ---
 
 ## Newborns
