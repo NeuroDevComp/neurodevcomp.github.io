@@ -1,6 +1,7 @@
 ---
 title: "Studies with babies"
 image: /static/img/babies.jpg
+description: "¿Qué tipo de estudios hacemos?"
 ---
 
 ## Recién nacidos
