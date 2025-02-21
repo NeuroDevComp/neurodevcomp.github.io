@@ -20,9 +20,9 @@ I earned my Ph.D. in Psychology from the University of Padova (Italy) in 2016, w
 
 In 2024, I was awarded an ERC Starting Grant (European Union) for my project Gates to Language (GALA), which aims at investigating the origins of neural and cognitive mechanisms at the onset of language learning, testing humans at different developmental stages (0 to 10 month old), rats as animal model, and different sensory inputs (linguistic, auditory non-linguistic, and vibro-tactile). 
 
-## Post-doctoral researchers
-
 <br>
+
+## Post-doctoral researchers
 
 <h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
 </a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
@@ -34,9 +34,10 @@ I am a post-doctoral researcher investigating language acquisition and how young
 
 In 2024 I obtained my Ph.D. at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof. Núria Sebastian-Galles. I earned my B. Sc. in Psychology from the Universidad de Oviedo in 2013, and my M. Sc. in Neurosciences at the Universitat de Barcelona in 2018. 
 
+<br>
+
 ## Ph.D. students
 
-<br>
 
 <h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Floraachr" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
