@@ -6,9 +6,9 @@ image: /static/img/babies.jpg
 ## Newborns
 
 ::: textbox
-**El lenguaje es un sistema comunicativo muy complejo y estructurado**, pero a la mayoría de los seres humanos les resulta sorprendentemente **fácil adquirirlo**. ¿Qué mecanismos favorecen esta preparación para el aprendizaje del lenguaje en etapas tempranas de la vida? Esta es una de las principales preguntas de investigación del grupo NeuroDevComp, que abordamos **estudiando a recién nacidos unas horas después del nacimiento**.
+El lenguaje es un sistema comunicativo muy complejo y estructurado, pero a la mayoría de los seres humanos les resulta sorprendentemente fácil adquirirlo. ¿Qué mecanismos favorecen esta preparación para el aprendizaje del lenguaje en etapas tempranas de la vida? Esta es una de las principales preguntas de investigación del grupo NeuroDevComp, que abordamos estudiando a recién nacidos unas horas después del nacimiento.
 
-Utilizamos una técnica llamada **fNIRS (espectroscopia funcional de infrarrojo cercano)** que permite medir la actividad neuronal espontánea de los recién nacidos cuando escuchan estímulos auditivos (por ejemplo, habla continua, sílabas individuales y palabras). Actualmente estamos llevando a cabo estos estudios en el Hospital Infantil Sant Joan de Déu de Barcelona.
+Utilizamos una técnica llamada fNIRS (espectroscopia funcional de infrarrojo cercano) que permite medir la actividad neuronal espontánea de los recién nacidos cuando escuchan estímulos auditivos (por ejemplo, habla continua, sílabas individuales y palabras). Actualmente estamos llevando a cabo estos estudios en el Hospital Infantil Sant Joan de Déu de Barcelona.
 :::
 
 ![](/static/img/neonate.jpg)
@@ -20,9 +20,9 @@ Nos interesa saber cómo los bebés de entre 4 y 11 meses detectan y procesan di
 
 En concreto, nos interesa saber cómo los bebés segmentan el habla en unidades pequeñas, como sílabas. Para abordar esta cuestión, utilizamos diferentes técnicas:
 
-- **Conductual**: medimos el tiempo que los bebés miran la pantalla de un ordenador mientras escuchan diferentes tipos de sonidos del habla.
-- **Eye-tracker**: rastreamos los movimientos de la mirada de los bebés en la pantalla con gran precisión y también medimos la dilatación de sus pupilas cuando escuchan sonidos del habla.
-- **fNIRS** (espectroscopia funcional de infrarrojo cercano): nos interesa observar la activación de diferentes áreas del cerebro cuando los bebés escuchan sonidos del habla.
+- Conductual: medimos el tiempo que los bebés miran la pantalla de un ordenador mientras escuchan diferentes tipos de sonidos del habla.
+- Eye-tracker: rastreamos los movimientos de la mirada de los bebés en la pantalla con gran precisión y también medimos la dilatación de sus pupilas cuando escuchan sonidos del habla.
+- fNIRS (espectroscopia funcional de infrarrojo cercano): nos interesa observar la activación de diferentes áreas del cerebro cuando los bebés escuchan sonidos del habla.
 :::
 
 ![](/static/img/babies.jpg)

@@ -1,16 +1,14 @@
 ---
 title: "Studies with babies"
-image: /static/img/babies.jpg
-description: "What kind of studies do we do?"
+image: /static/img/babies.jpgv
 ---
-
 
 ## Newborns
 
 ::: textbox
-**Language is a very complex and structured communicative system** yet most humans find it surprisingly **easy to acquire language**. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevComp group, which we address by **studying newborns a few hours after birth**. 
+Language is a very complex and structured communicative system yet most humans find it surprisingly easy to acquire language. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevComp group, which we address by studying newborns a few hours after birth. 
 
-We use a technique called **fNIRS (functional Near-Infrared Spectroscopy)** that allows to measure newborns' spontaneous neural activity when listening to auditory inputs (e.g., continuous speech, individual syllables and words). We are currently conducting these studies at the Sant Joan de Deu Barcelona Children Hospital. 
+We use a technique called fNIRS (functional Near-Infrared Spectroscopy) that allows to measure newborns' spontaneous neural activity when listening to auditory inputs (e.g., continuous speech, individual syllables and words). We are currently conducting these studies at the Sant Joan de Deu Barcelona Children Hospital. 
 :::
 
 ![](/static/img/neonate.jpg)
@@ -18,13 +16,13 @@ We use a technique called **fNIRS (functional Near-Infrared Spectroscopy)** that
 ## Infants
 
 ::: textbox
-Nos interesa saber cómo los bebés de entre 4 y 11 meses detectan y procesan diferentes características del habla. Se sabe que los bebés pequeños aprenden las reglas y estructuras de su(s) lengua(s) materna(s) muy rápidamente y sin esfuerzo.
+We are interested in how babies from 4 to 11 month-old detect and process different features of the speech. Young infants are known to pick up rules and structures of their native language(s) very quickly and effortlessly.
 
-En concreto, nos interesa saber cómo los bebés segmentan el habla en unidades pequeñas, como sílabas. Para abordar esta cuestión, utilizamos diferentes técnicas:
+Specifically, we are interested in how infants segment the speech into small units like syllables. To tackle this issue, we use different techniques: 
 
-- **Conductual**: medimos el tiempo que los bebés miran la pantalla de un ordenador mientras escuchan diferentes tipos de sonidos del habla.
-- **Eye-tracker**: rastreamos los movimientos de la mirada de los bebés en la pantalla con gran precisión y también medimos la dilatación de sus pupilas cuando escuchan sonidos del habla.
-- **fNIRS** (espectroscopia funcional de infrarrojo cercano): nos interesa observar la activación de diferentes áreas del cerebro cuando los bebés escuchan sonidos del habla.
+- Behavioral: we measure how long infants look at a computer screen while listening to different types of speech sounds
+- Eye-tracker: we track infants' gaze movements on the screen with high precision, and also measure their pupil dilation when listening to speech sounds 
+- fNIRS (functional Near-Infrared Spectroscopy): we are interested in looking at the activation of different brain areas when infants are listening to speech sounds
 :::
 
 ![](/static/img/babies.jpg)

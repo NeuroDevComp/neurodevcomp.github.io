@@ -5,7 +5,7 @@ description: "Nuestros estudios con animales no humanos"
 ---
 
 ::: textbox
-¿Sabías que **otros animales son capaces de procesar y aprender algunas propiedades del lenguaje humano**? En nuestro grupo de investigación nos interesa adoptar un enfoque **multi-especie** para comprender el **aprendizaje y procesamiento del lenguaje**. Utilizamos modelos animales como las ratas *Rattus Norvegicus* para probar su **capacidad de procesar sílabas y palabras**, dos unidades fundamentales del habla que se implementan con estímulos auditivos y vibrotáctiles.
+¿Sabías que otros animales son capaces de procesar y aprender algunas propiedades del lenguaje humano? En nuestro grupo de investigación nos interesa adoptar un enfoque multi-especie para comprender el aprendizaje y procesamiento del lenguaje. Utilizamos modelos animales como las ratas *Rattus Norvegicus* para probar su capacidad de procesar sílabas y palabras, dos unidades fundamentales del habla que se implementan con estímulos auditivos y vibrotáctiles.
 :::
 
 

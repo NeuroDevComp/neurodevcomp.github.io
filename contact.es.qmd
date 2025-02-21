@@ -4,6 +4,7 @@ image: /static/img/pccb.jpg
 description: "¡Contacta con nosotros!"
 ---
 
+¿Interesado/a en participar en nuestros estudios o quieres saber más sobre nuestra investigación?
 
 :::::{.column-page}
 :::: {.contactbox}
