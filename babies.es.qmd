@@ -3,7 +3,7 @@ title: "Studies with babies"
 image: /static/img/babies.jpg
 ---
 
-## Newborns
+## Recién nacidos
 
 ::: textbox
 El lenguaje es un sistema comunicativo muy complejo y estructurado, pero a la mayoría de los seres humanos les resulta sorprendentemente fácil adquirirlo. ¿Qué mecanismos favorecen esta preparación para el aprendizaje del lenguaje en etapas tempranas de la vida? Esta es una de las principales preguntas de investigación del grupo NeuroDevComp, que abordamos estudiando a recién nacidos unas horas después del nacimiento.
@@ -13,7 +13,7 @@ Utilizamos una técnica llamada fNIRS (espectroscopia funcional de infrarrojo ce
 
 ![](/static/img/neonate.jpg)
 
-## Infants
+## Bebés
 
 ::: textbox
 Nos interesa saber cómo los bebés de entre 4 y 11 meses detectan y procesan diferentes características del habla. Se sabe que los bebés pequeños aprenden las reglas y estructuras de su(s) lengua(s) materna(s) muy rápidamente y sin esfuerzo.

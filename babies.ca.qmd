@@ -4,20 +4,7 @@ image: /static/img/babies.jpg
 description: "Quin tipus d'estudis fem?"
 ---
 
-## Newborns
-
-::: textbox
-
-El llenguatge és el sistema comunicatiu més complex que es coneix. No obstant això, a la majoria dels éssers humans els resulta sorprenentment fàcil adquirir el llenguatge. Quins mecanismes sustenten aquesta preparació per a l'adquisició del llenguatge? Aquesta és una de les principals preguntes de recerca del grup NeuroDevComp, i els nounats són clau per a investigar-la, ja que encara no han adquirit una experiència extensa amb el llenguatge. Per a investigar aquesta qüestió, utilitzem una tècnica anomenada fNIRS, en la qual mesurem l'activitat espontània del cervell dels nounats en resposta a diferents tipus de parts de la parla.
-:::
-
-![](/static/img/neonate.jpg)
-
-## Infants
-
-::: textbox
-
-## Newborns
+## Nounats
 
 ::: textbox
 La llengua és un sistema comunicatiu molt complex i estructurat però la majoria dels humans troben sorprenentment fàcil adquirir el llenguatge. Quins mecanismes donen suport a aquesta disposició per a l'aprenentatge de llengües en els primers anys de la vida? Aquesta és una de les principals preguntes de recerca del grup NeuroDevComp, a la qual ens dirigim sentint nadons unes hores després del naixement.
