@@ -26,7 +26,5 @@ En concret, ens interessa com els infants segmenten la parla en unitats petites 
 - fNIRS (espectroscòpia funcional d'infraroig proper): estem interessats a veure l'activació de diferents àrees cerebrals quan els nadons estan escoltant sons de la parla.
 :::
 
-![](/static/img/babies.jpg)
-:::
 
 ![](/static/img/babies.jpg)

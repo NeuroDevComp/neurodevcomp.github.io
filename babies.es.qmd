@@ -1,5 +1,5 @@
 ---
-title: "Studies with babies"
+title: "Estudios con bebés"
 image: /static/img/babies.jpg
 description: "¿Qué tipo de estudios hacemos?"
 ---
