@@ -33,7 +33,7 @@ toc: false
 <br>
 
 ::: {.textbox}
-El grup de recerca en Neurodesenvolupament i Cognició Comparada (**NeuroDevComp**) de l'**Institut de Recerca Sant Joan de Déu** (Barcelona, Espanya), liderat per la **Dra. Chiara Santolin**, es centra en comprendre els mecanismes subjacents als **processos cognitius i neuronals en nadons i nadons humans, i en altres espècies**. Combinant enfocaments de **desenvolupament** i *multiespeci*, el grup investiga com les *experiències de la vida primerenca* donen forma al *desenvolupament cerebral* i *funcions cognitives*. La recerca en curs es centra principalment en descobrir els orígens (evolucionaris) dels mecanismes que donen suport a l'**aprenentatge primerenc de la llengua**, integrant les tècniques de recerca de la **Psicologia**, la **Neurociència cognitiva** i la **Biologia**.
+El grup de recerca en Neurodesenvolupament i Cognició Comparada (NeuroDevComp) de l'Institut de Recerca Sant Joan de Déu (Barcelona, Espanya), liderat per la Dra. Chiara Santolin, es centra en comprendre els mecanismes subjacents als processos cognitius i neuronals en nadons i nadons humans, i en altres espècies. Combinant enfocaments de desenvolupament i multiespeci, el grup investiga com les experiències de la vida primerenca donen forma al desenvolupament cerebral i funcions cognitives. La recerca en curs es centra principalment en descobrir els orígens (evolucionaris) dels mecanismes que donen suport a l'aprenentatge primerenc de la llengua, integrant les tècniques de recerca de la Psicologia, la Neurociència cognitiva i la Biologia.
 :::
 
 <br>

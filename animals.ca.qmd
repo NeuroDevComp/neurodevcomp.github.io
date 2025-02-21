@@ -1,11 +1,10 @@
 ---
 title: "Animal research"
 image: /static/img/animals.jpg
-description: "Els nostres estudis amb animals no humans"
 ---
 
 ::: textbox
-En el nostre grup de recerca estem interessats a fer un **enfocament multi-espècie** per entendre l'**aprenentatge i processament de la llengua**. Utilitzem models animals com les rates (*Rattus Norvegicus*) per provar la seva **capacitat de processar síl·labes i paraules**, dues unitats fonamentals de parla implementades com amb estímuls auditius i vibrotàtils.
+En el nostre grup de recerca estem interessats a fer un enfocament multi-espècie per entendre l'aprenentatge i processament de la llengua. Utilitzem models animals com les rates (*Rattus Norvegicus*) per provar la seva capacitat de processar síl·labes i paraules, dues unitats fonamentals de parla implementades com amb estímuls auditius i vibrotàtils.
 :::
 
 
