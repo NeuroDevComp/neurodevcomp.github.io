@@ -41,7 +41,7 @@ Em vaig graduar en Psicologia en la Universitat d'Oviedo en 2013 i vaig obtenir 
 
 Soc estudiant de doctorat a la Universitat Pompeu Fabra de Barcelona, ​​matriculada en el Programa de Doctorat en Biomedicina. Estic interessada en la adquisició i processament primerenc del llenguatge* per part dels bebès, utilitzant diferents tècniques com les conductuals, eye-tracking i fNIRS.
 
-Vaig obtenir el meu MSc en Biologia Integrativa i Fisiologia---especialitzada en Neurociències del Comportament en La Sorbonne Université i vaig passar un any treballant com a enginyera de recerca en l'adquisició primerenca del llenguatge en el INCC---equip de Llenguatge i Cognició a París. Actualment estic involucrada en el projecte GAL·LA que investiga com els bebès, amb tan sols uns mesos d'edat, perceben les síl·labes.
+Vaig obtenir el meu MSc en Biologia Integrativa i Fisiologia---especialitzada en Neurociències del Comportament en La Sorbonne Université i vaig passar un any treballant com a enginyera de recerca en l'adquisició primerenca del llenguatge en el INCC---equip de Llenguatge i Cognició a París. Actualment estic involucrada en el projecte GALA que investiga com els bebès, amb tan sols uns mesos d'edat, perceben les síl·labes.
 
 <br>
 
@@ -51,4 +51,4 @@ Vaig obtenir el meu MSc en Biologia Integrativa i Fisiologia---especialitzada en
 
 ![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Actualment treball com a assistent de recerca per al projecte GAL·LA. Facilito la recerca ajudant en la recol·lecció de dades, brindant suport logístic i administratiu i ocupant-me del centre de trucades per a convidar a les famílies a participar en els nostres estudis. Vaig obtenir el meu mestratge en Lingüística Clínica i Experimental Internacional en la Universitat de Potsdam (Potsdam, Alemanya), i la meva llicenciatura en Psicologia en el Bethany College (Kansas, els EUA). M'interessa molt la recerca que apunta a comprendre els mecanismes i estratègies d'adquisició del llenguatge, principalment enfocada en poblacions, idiomes i dialectes poc estudiats.
+Actualment treball com a assistent de recerca per al projecte GALA. Facilito la recerca ajudant en la recol·lecció de dades, brindant suport logístic i administratiu i ocupant-me del centre de trucades per a convidar a les famílies a participar en els nostres estudis. Vaig obtenir el meu mestratge en Lingüística Clínica i Experimental Internacional en la Universitat de Potsdam (Potsdam, Alemanya), i la meva llicenciatura en Psicologia en el Bethany College (Kansas, els EUA). M'interessa molt la recerca que apunta a comprendre els mecanismes i estratègies d'adquisició del llenguatge, principalment enfocada en poblacions, idiomes i dialectes poc estudiats.
